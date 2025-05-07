@@ -124,8 +124,3 @@ nb-configuration.xml
 
 /results/
 /phpunit*.xml
-
-node_modules/
-.env
-.vscode/
-dist/
